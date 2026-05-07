@@ -1,0 +1,7 @@
+Auth:
+    register:
+        aman
+        kurang validasi email
+            nanti register harus pake auth karena hanya owner yang dapat membuat nya
+    login:
+        
